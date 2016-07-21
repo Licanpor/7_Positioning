@@ -1,0 +1,35 @@
+div{
+	width: 100px;
+	height: 100px;
+	position: relative;
+}
+.aqua{
+	left: 100px;
+	top:100px;
+	bottom: 0px;
+	right: 100px;
+	background-color: aqua;
+}
+.yellow{
+	left: 200px;
+	top:100px;
+	bottom: 0px;
+	background-color: yellow;
+}
+.pink{
+	left: 100px;
+	top:100px;
+	bottom: 0px;
+	right: 100px;
+	background-color: pink;
+}
+/*  Css para la segunda prueba*/
+.yellow1{
+	left: 100px;
+	top:100px;
+	bottom: 0px;
+	background-color: yellow;
+
+/* Absolute: 4 esquinas */
+
+
